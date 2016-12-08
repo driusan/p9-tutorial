@@ -1,4 +1,4 @@
-Graphics
+Graphics!
 ===
 
 Plan 9 has built-in graphics capabilities. There are system commands that are capable of rendering and manipulating raster graphics. The raster graphics are easily converted to popular formats such as GIF, PNG and JPG using tools. Finally, you can use certain simple text formats to draw. 
