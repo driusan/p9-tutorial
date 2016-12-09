@@ -1,4 +1,4 @@
-
+This is a test commit from go-git.
 Welcome
 ===
 
